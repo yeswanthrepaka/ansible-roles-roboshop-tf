@@ -1,11 +1,11 @@
 ansible_user: ec2-user
 ansible_password: DevOps321
 MONGODB_HOST: mongodb-dev.repaka.online
-CATALOGUE_HOST: catalogue-dev.repaka.online
+CATALOGUE_HOST: catalogue.backend-alb-dev.repaka.online
 REDIS_HOST: redis-dev.repaka.online
-USER_HOST: user-dev.repaka.online
-CART_HOST: cart-dev.repaka.online
+USER_HOST: user.backend-alb-dev.repaka.online
+CART_HOST: cart.backend-alb-dev.repaka.online
 MYSQL_HOST: mysql-dev.repaka.online
-SHIPPING_HOST: shipping-dev.repaka.online
+SHIPPING_HOST: shipping.backend-alb-dev.repaka.online
 RABBITMQ_HOST: rabbitmq-dev.repaka.online
-PAYMENT_HOST: payment-dev.repaka.online
+PAYMENT_HOST: payment.backend-alb-dev.repaka.online
